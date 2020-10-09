@@ -20,7 +20,7 @@ package leetcode;
  * 你能想出一个仅使用常数空间的一趟扫描算法吗？
  * 通过次数133,402提交次数237,118
  */
-public class Leetcode75 {
+public class Leetcode075 {
     public void sortColors(int[] nums) {
 
     }

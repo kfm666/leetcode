@@ -44,5 +44,5 @@ package leetcode;
  *   [16, 7,10,11]
  * ]
  */
-public class Leetcode48 {
+public class Leetcode048 {
 }

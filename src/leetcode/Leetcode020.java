@@ -2,7 +2,7 @@ package leetcode;
 
 import java.util.Stack;
 
-public class Question20 {
+public class Leetcode020 {
 
     public static void main(String[] args) {
         String str = "[";

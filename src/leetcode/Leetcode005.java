@@ -19,7 +19,7 @@ import java.util.Stack;
  * 输入: "cbbd"
  * 输出: "bb"
  */
-public class Question5 {
+public class Leetcode005 {
     public static void main(String[] args) {
         System.out.println("babab--->"+longestPalindrome("babab"));
         System.out.println("baab--->"+longestPalindrome("baab"));

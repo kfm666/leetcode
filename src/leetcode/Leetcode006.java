@@ -34,7 +34,7 @@ import java.util.List;
  * T     S     G
  *
  */
-public class Leetcode6 {
+public class Leetcode006 {
     public static void main(String[] args) {
         System.out.println(convert("LEETCODEISHIRING",3));
     }
