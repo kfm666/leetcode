@@ -1,6 +1,6 @@
 package leetcode;
 
-public class Question21 {
+public class Leetcode021 {
 
     static class ListNode {
         int val;

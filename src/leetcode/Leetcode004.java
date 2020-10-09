@@ -1,6 +1,6 @@
 package leetcode;
 
-public class Question4 {
+public class Leetcode004 {
     public static void main(String[] args) {
         int[] nums1 = new int[]{100001};
         int[] nums2 = new int[]{100000};

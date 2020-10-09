@@ -20,7 +20,7 @@ import java.util.List;
  *        "()()()"
  *      ]
  */
-public class Leetcode22 {
+public class Leetcode022 {
 
     public static void main(String[] args) {
         List<String> list = generateParenthesis(3);
